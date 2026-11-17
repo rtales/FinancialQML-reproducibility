@@ -1,0 +1,74 @@
+[
+  {
+    "claims": 240,
+    "group_type": "all",
+    "group_value": "all_claims",
+    "max_score": 1.0,
+    "mean_score": 0.8418,
+    "min_score": 0.4651
+  },
+  {
+    "claims": 120,
+    "group_type": "family",
+    "group_value": "F1",
+    "max_score": 1.0,
+    "mean_score": 0.8345,
+    "min_score": 0.4651
+  },
+  {
+    "claims": 120,
+    "group_type": "family",
+    "group_value": "F2",
+    "max_score": 1.0,
+    "mean_score": 0.8491,
+    "min_score": 0.6818
+  },
+  {
+    "claims": 54,
+    "group_type": "claim_target",
+    "group_value": "computational_cost",
+    "max_score": 1.0,
+    "mean_score": 0.8601,
+    "min_score": 0.625
+  },
+  {
+    "claims": 30,
+    "group_type": "claim_target",
+    "group_value": "economic_performance",
+    "max_score": 0.9167,
+    "mean_score": 0.841,
+    "min_score": 0.7083
+  },
+  {
+    "claims": 56,
+    "group_type": "claim_target",
+    "group_value": "feasibility",
+    "max_score": 1.0,
+    "mean_score": 0.8226,
+    "min_score": 0.4651
+  },
+  {
+    "claims": 38,
+    "group_type": "claim_target",
+    "group_value": "pricing_accuracy",
+    "max_score": 1.0,
+    "mean_score": 0.8646,
+    "min_score": 0.6818
+  },
+  {
+    "claims": 29,
+    "group_type": "claim_target",
+    "group_value": "resource_requirement",
+    "max_score": 1.0,
+    "mean_score": 0.8358,
+    "min_score": 0.6818
+  },
+  {
+    "claims": 33,
+    "group_type": "claim_target",
+    "group_value": "solution_quality",
+    "max_score": 0.9167,
+    "mean_score": 0.824,
+    "min_score": 0.6042
+  }
+]

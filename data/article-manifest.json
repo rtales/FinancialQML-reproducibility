@@ -1,0 +1,17 @@
+{
+  "claims": 240,
+  "code_release": "v1.0.1",
+  "code_repository_url": "https://github.com/rtales/FinancialQML-reproducibility/tree/v1.0.1",
+  "comparison_contracts": [
+    "L0",
+    "T1",
+    "I1"
+  ],
+  "corpus_papers": 56,
+  "cross_paper_claim_pairs": 13873,
+  "data_archive_doi": "10.5281/zenodo.23811821",
+  "data_license": "CC BY 4.0",
+  "manuscript_file": "FinancialQML_EPJQT.md",
+  "manuscript_sha256": "877d6ff9f46706ff316a11fc132732967adead03eedc0cc1d67786510446637c",
+  "schema_version": "financialqml-manuscript-artifact-v1"
+}

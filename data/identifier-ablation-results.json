@@ -1,0 +1,84 @@
+{
+  "analysis_type": "post-hoc descriptive sensitivity analysis",
+  "baseline_verdicts": {
+    "comparable": 0,
+    "incomparable": 13792,
+    "insufficient_information": 81
+  },
+  "identifier_path_definition": "Every blocker path whose final field name ends in _id or _ref.",
+  "interpretation_boundary": "Counterfactual blocker-free records are not validated scientific comparisons. The original L0 verdicts are unchanged.",
+  "n_pairs": 13873,
+  "policies": {
+    "all_id_ref_suffix_paths": {
+      "omitted_paths": [
+        "comparator.method_id",
+        "comparator.protocol_id",
+        "finance_context.calibration_id",
+        "finance_context.constraints_id",
+        "finance_context.discretization_id",
+        "finance_context.dynamics_model_id",
+        "finance_context.objective_id",
+        "finance_context.payoff_id",
+        "finance_context.transaction_cost_model_id",
+        "finance_context.underlying_id",
+        "finance_context.universe_id",
+        "metric.definition_ref",
+        "metric.metric_id",
+        "subject_method.algorithm_id",
+        "subject_method.implementation_protocol_id"
+      ],
+      "population_results": {
+        "all_pairs": {
+          "n_pairs": 13873,
+          "outcomes": {
+            "counterfactual_blocker_free": 0,
+            "incomparable": 13790,
+            "insufficient_information": 83
+          }
+        },
+        "same_macro_target": {
+          "n_pairs": 3451,
+          "outcomes": {
+            "counterfactual_blocker_free": 0,
+            "incomparable": 3368,
+            "insufficient_information": 83
+          }
+        }
+      }
+    },
+    "core_named_identifier_paths": {
+      "omitted_paths": [
+        "comparator.method_id",
+        "comparator.protocol_id",
+        "metric.definition_ref",
+        "metric.metric_id",
+        "subject_method.algorithm_id",
+        "subject_method.implementation_protocol_id"
+      ],
+      "population_results": {
+        "all_pairs": {
+          "n_pairs": 13873,
+          "outcomes": {
+            "counterfactual_blocker_free": 0,
+            "incomparable": 13792,
+            "insufficient_information": 81
+          }
+        },
+        "same_macro_target": {
+          "n_pairs": 3451,
+          "outcomes": {
+            "counterfactual_blocker_free": 0,
+            "incomparable": 3370,
+            "insufficient_information": 81
+          }
+        }
+      }
+    }
+  },
+  "same_macro_target_n": 3451,
+  "schema_version": "l0-identifier-omission-sensitivity-v1",
+  "selection": {
+    "contract": "L0",
+    "scenario": "full_original"
+  }
+}

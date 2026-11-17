@@ -1,0 +1,55 @@
+{
+  "files": [
+    {
+      "bytes": 59084,
+      "path": "FinancialQML_EPJQT.md",
+      "sha256": "877d6ff9f46706ff316a11fc132732967adead03eedc0cc1d67786510446637c"
+    },
+    {
+      "bytes": 540,
+      "path": "article-manifest.json",
+      "sha256": "bca15c5cb25ac575a21396b33488e929e6c1d0713d32375b048841ed0da3169e"
+    },
+    {
+      "bytes": 17505492,
+      "path": "article-pair-diagnostics.json",
+      "sha256": "cd0fde831b9bd79394797d8f3c69d39cf40058b386d30c7054fc549d611939ad"
+    },
+    {
+      "bytes": 367407,
+      "path": "article-profiles.json",
+      "sha256": "7b71f612fea10c6fcec5b7d7127825974f1e838d77a5865cfc0fb546af34a296"
+    },
+    {
+      "bytes": 77623,
+      "path": "ba-scores.tsv",
+      "sha256": "0432b7447d24b1c569867502dbfa2858a95baf3d96c43a3950b09c8ac155dc5b"
+    },
+    {
+      "bytes": 1507,
+      "path": "ba-summary.json",
+      "sha256": "be372148a35246c870cc4f0f0a1fa2cfb42c5181424b51390759c40efba5a787"
+    },
+    {
+      "bytes": 26031,
+      "path": "claim-paper-map.json",
+      "sha256": "d7850ae1935c4eb9e397fdee748991d45e9c36aad1d68792f185d271dfca319f"
+    },
+    {
+      "bytes": 11057,
+      "path": "finance-v9-applicability-summary.json",
+      "sha256": "45f358840777d950bb11042fa6b54e3ae0d11e844c7fd9dd967556ab0f6fb41b"
+    },
+    {
+      "bytes": 1062771,
+      "path": "frozen_analysis_inputs.zip",
+      "sha256": "b9323340a87e16788be06ed432187bf326808e3f8dbc384855b2c19ed4dee728"
+    },
+    {
+      "bytes": 2582,
+      "path": "identifier-ablation-results.json",
+      "sha256": "19e9f9e914677401aee1c6a7e8f08530b3b23515e34651a4ed0f29f6e7e413e0"
+    }
+  ],
+  "schema_version": "financialqml-reproduction-inputs-v1"
+}

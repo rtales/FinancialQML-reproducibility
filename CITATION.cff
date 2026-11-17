@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or the structured research data, cite the associated FinancialQML article and the Zenodo data archive."
+title: "FinancialQML reproducibility package"
+version: "1.0.1"
+date-released: "2026-11-17"
+repository-code: "https://github.com/rtales/FinancialQML-reproducibility"
+authors:
+  - family-names: Matos
+    given-names: Tales
+  - family-names: Santos
+    given-names: Victor Oliveira
+  - family-names: Thé
+    given-names: Jesse Van Griensven
+  - family-names: Macedo
+    given-names: Jose Antonio
+  - family-names: Gharabaghi
+    given-names: Bahram

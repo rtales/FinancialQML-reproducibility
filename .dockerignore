@@ -1,0 +1,6 @@
+outputs
+tests
+requirements-dev.txt
+Makefile
+__pycache__
+*.py[cod]

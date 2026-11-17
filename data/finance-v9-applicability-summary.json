@@ -1,0 +1,366 @@
+{
+  "fields": [
+    {
+      "applicable_pairs": 13873,
+      "blocked_pairs": 13867,
+      "blocked_share": 0.999568,
+      "by_family": {
+        "F1": {
+          "applicable_pairs": 6939,
+          "blocked_pairs": 6939,
+          "blocked_share": 1.0,
+          "different_present_value_pairs": 125,
+          "missing_pairs": 6814,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 0
+        },
+        "F2": {
+          "applicable_pairs": 6934,
+          "blocked_pairs": 6928,
+          "blocked_share": 0.999135,
+          "different_present_value_pairs": 30,
+          "missing_pairs": 6898,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 6
+        }
+      },
+      "different_present_value_pairs": 155,
+      "field": "metric.definition_ref",
+      "missing_pairs": 13712,
+      "not_applicable_pairs": 0,
+      "unblocked_applicable_pairs": 6
+    },
+    {
+      "applicable_pairs": 13873,
+      "blocked_pairs": 13864,
+      "blocked_share": 0.999351,
+      "by_family": {
+        "F1": {
+          "applicable_pairs": 6939,
+          "blocked_pairs": 6939,
+          "blocked_share": 1.0,
+          "different_present_value_pairs": 0,
+          "missing_pairs": 6939,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 0
+        },
+        "F2": {
+          "applicable_pairs": 6934,
+          "blocked_pairs": 6925,
+          "blocked_share": 0.998702,
+          "different_present_value_pairs": 0,
+          "missing_pairs": 6925,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 9
+        }
+      },
+      "different_present_value_pairs": 0,
+      "field": "subject_method.algorithm_id",
+      "missing_pairs": 13864,
+      "not_applicable_pairs": 0,
+      "unblocked_applicable_pairs": 9
+    },
+    {
+      "applicable_pairs": 13873,
+      "blocked_pairs": 13861,
+      "blocked_share": 0.999135,
+      "by_family": {
+        "F1": {
+          "applicable_pairs": 6939,
+          "blocked_pairs": 6933,
+          "blocked_share": 0.999135,
+          "different_present_value_pairs": 5,
+          "missing_pairs": 6928,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 6
+        },
+        "F2": {
+          "applicable_pairs": 6934,
+          "blocked_pairs": 6928,
+          "blocked_share": 0.999135,
+          "different_present_value_pairs": 0,
+          "missing_pairs": 6928,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 6
+        }
+      },
+      "different_present_value_pairs": 5,
+      "field": "metric.metric_id",
+      "missing_pairs": 13856,
+      "not_applicable_pairs": 0,
+      "unblocked_applicable_pairs": 12
+    },
+    {
+      "applicable_pairs": 13873,
+      "blocked_pairs": 13841,
+      "blocked_share": 0.997693,
+      "by_family": {
+        "F1": {
+          "applicable_pairs": 6939,
+          "blocked_pairs": 6919,
+          "blocked_share": 0.997118,
+          "different_present_value_pairs": 1304,
+          "missing_pairs": 5615,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 20
+        },
+        "F2": {
+          "applicable_pairs": 6934,
+          "blocked_pairs": 6922,
+          "blocked_share": 0.998269,
+          "different_present_value_pairs": 1695,
+          "missing_pairs": 5227,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 12
+        }
+      },
+      "different_present_value_pairs": 2999,
+      "field": "metric.unit",
+      "missing_pairs": 10842,
+      "not_applicable_pairs": 0,
+      "unblocked_applicable_pairs": 32
+    },
+    {
+      "applicable_pairs": 12750,
+      "blocked_pairs": 12750,
+      "blocked_share": 1.0,
+      "by_family": {
+        "F1": {
+          "applicable_pairs": 6506,
+          "blocked_pairs": 6506,
+          "blocked_share": 1.0,
+          "different_present_value_pairs": 0,
+          "missing_pairs": 6506,
+          "not_applicable_pairs": 433,
+          "unblocked_applicable_pairs": 0
+        },
+        "F2": {
+          "applicable_pairs": 6244,
+          "blocked_pairs": 6244,
+          "blocked_share": 1.0,
+          "different_present_value_pairs": 0,
+          "missing_pairs": 6244,
+          "not_applicable_pairs": 690,
+          "unblocked_applicable_pairs": 0
+        }
+      },
+      "different_present_value_pairs": 0,
+      "field": "subject_method.implementation_protocol_id",
+      "missing_pairs": 12750,
+      "not_applicable_pairs": 1123,
+      "unblocked_applicable_pairs": 0
+    },
+    {
+      "applicable_pairs": 12750,
+      "blocked_pairs": 12319,
+      "blocked_share": 0.966196,
+      "by_family": {
+        "F1": {
+          "applicable_pairs": 6506,
+          "blocked_pairs": 6233,
+          "blocked_share": 0.958039,
+          "different_present_value_pairs": 4615,
+          "missing_pairs": 1618,
+          "not_applicable_pairs": 433,
+          "unblocked_applicable_pairs": 273
+        },
+        "F2": {
+          "applicable_pairs": 6244,
+          "blocked_pairs": 6086,
+          "blocked_share": 0.974696,
+          "different_present_value_pairs": 434,
+          "missing_pairs": 5652,
+          "not_applicable_pairs": 690,
+          "unblocked_applicable_pairs": 158
+        }
+      },
+      "different_present_value_pairs": 5049,
+      "field": "scale.n_assets",
+      "missing_pairs": 7270,
+      "not_applicable_pairs": 1123,
+      "unblocked_applicable_pairs": 431
+    },
+    {
+      "applicable_pairs": 13843,
+      "blocked_pairs": 10898,
+      "blocked_share": 0.787257,
+      "by_family": {
+        "F1": {
+          "applicable_pairs": 6924,
+          "blocked_pairs": 5384,
+          "blocked_share": 0.777585,
+          "different_present_value_pairs": 4719,
+          "missing_pairs": 665,
+          "not_applicable_pairs": 15,
+          "unblocked_applicable_pairs": 1540
+        },
+        "F2": {
+          "applicable_pairs": 6919,
+          "blocked_pairs": 5514,
+          "blocked_share": 0.796936,
+          "different_present_value_pairs": 4850,
+          "missing_pairs": 664,
+          "not_applicable_pairs": 15,
+          "unblocked_applicable_pairs": 1405
+        }
+      },
+      "different_present_value_pairs": 9569,
+      "field": "claim_target_detail",
+      "missing_pairs": 1329,
+      "not_applicable_pairs": 30,
+      "unblocked_applicable_pairs": 2945
+    },
+    {
+      "applicable_pairs": 13873,
+      "blocked_pairs": 10422,
+      "blocked_share": 0.751243,
+      "by_family": {
+        "F1": {
+          "applicable_pairs": 6939,
+          "blocked_pairs": 5232,
+          "blocked_share": 0.753999,
+          "different_present_value_pairs": 5232,
+          "missing_pairs": 0,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 1707
+        },
+        "F2": {
+          "applicable_pairs": 6934,
+          "blocked_pairs": 5190,
+          "blocked_share": 0.748486,
+          "different_present_value_pairs": 5190,
+          "missing_pairs": 0,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 1744
+        }
+      },
+      "different_present_value_pairs": 10422,
+      "field": "claim_target",
+      "missing_pairs": 0,
+      "not_applicable_pairs": 0,
+      "unblocked_applicable_pairs": 3451
+    },
+    {
+      "applicable_pairs": 13873,
+      "blocked_pairs": 9324,
+      "blocked_share": 0.672097,
+      "by_family": {
+        "F1": {
+          "applicable_pairs": 6939,
+          "blocked_pairs": 3997,
+          "blocked_share": 0.57602,
+          "different_present_value_pairs": 3997,
+          "missing_pairs": 0,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 2942
+        },
+        "F2": {
+          "applicable_pairs": 6934,
+          "blocked_pairs": 5327,
+          "blocked_share": 0.768243,
+          "different_present_value_pairs": 5327,
+          "missing_pairs": 0,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 1607
+        }
+      },
+      "different_present_value_pairs": 9324,
+      "field": "result_basis",
+      "missing_pairs": 0,
+      "not_applicable_pairs": 0,
+      "unblocked_applicable_pairs": 4549
+    },
+    {
+      "applicable_pairs": 13873,
+      "blocked_pairs": 9176,
+      "blocked_share": 0.661429,
+      "by_family": {
+        "F1": {
+          "applicable_pairs": 6939,
+          "blocked_pairs": 4877,
+          "blocked_share": 0.702839,
+          "different_present_value_pairs": 4877,
+          "missing_pairs": 0,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 2062
+        },
+        "F2": {
+          "applicable_pairs": 6934,
+          "blocked_pairs": 4299,
+          "blocked_share": 0.619988,
+          "different_present_value_pairs": 4299,
+          "missing_pairs": 0,
+          "not_applicable_pairs": 0,
+          "unblocked_applicable_pairs": 2635
+        }
+      },
+      "different_present_value_pairs": 9176,
+      "field": "task_context.evaluation_design",
+      "missing_pairs": 0,
+      "not_applicable_pairs": 0,
+      "unblocked_applicable_pairs": 4697
+    },
+    {
+      "applicable_pairs": 8518,
+      "blocked_pairs": 8518,
+      "blocked_share": 1.0,
+      "by_family": {
+        "F1": {
+          "applicable_pairs": 5742,
+          "blocked_pairs": 5742,
+          "blocked_share": 1.0,
+          "different_present_value_pairs": 0,
+          "missing_pairs": 5742,
+          "not_applicable_pairs": 1197,
+          "unblocked_applicable_pairs": 0
+        },
+        "F2": {
+          "applicable_pairs": 2776,
+          "blocked_pairs": 2776,
+          "blocked_share": 1.0,
+          "different_present_value_pairs": 0,
+          "missing_pairs": 2776,
+          "not_applicable_pairs": 4158,
+          "unblocked_applicable_pairs": 0
+        }
+      },
+      "different_present_value_pairs": 0,
+      "field": "comparator.protocol_id",
+      "missing_pairs": 8518,
+      "not_applicable_pairs": 5355,
+      "unblocked_applicable_pairs": 0
+    },
+    {
+      "applicable_pairs": 8518,
+      "blocked_pairs": 8511,
+      "blocked_share": 0.999178,
+      "by_family": {
+        "F1": {
+          "applicable_pairs": 5742,
+          "blocked_pairs": 5739,
+          "blocked_share": 0.999478,
+          "different_present_value_pairs": 0,
+          "missing_pairs": 5739,
+          "not_applicable_pairs": 1197,
+          "unblocked_applicable_pairs": 3
+        },
+        "F2": {
+          "applicable_pairs": 2776,
+          "blocked_pairs": 2772,
+          "blocked_share": 0.998559,
+          "different_present_value_pairs": 0,
+          "missing_pairs": 2772,
+          "not_applicable_pairs": 4158,
+          "unblocked_applicable_pairs": 4
+        }
+      },
+      "different_present_value_pairs": 0,
+      "field": "comparator.method_id",
+      "missing_pairs": 8511,
+      "not_applicable_pairs": 5355,
+      "unblocked_applicable_pairs": 7
+    }
+  ],
+  "pair_universe": "within-family cross-paper claim pairs after canonical paper_uid mapping",
+  "schema_version": "v9-pair-applicability-summary-v1"
+}
